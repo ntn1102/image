@@ -1,0 +1,123 @@
+<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  <g id="1">
+    <circle cx="0" cy="0" r="5" fill="black"/>
+  </g>
+  </defs>
+  
+  <defs>
+  <g id="2">
+    <use x="5" y="5" href="#1"/>
+    <use x="15" y="15" href="#1"/>
+    <use x="25" y="25" href="#1"/>
+    <use x="35" y="35" href="#1"/>
+    <use x="45" y="45" href="#1"/>
+    <use x="55" y="55" href="#1"/>
+    <use x="65" y="65" href="#1"/>
+    <use x="75" y="75" href="#1"/>
+    <use x="85" y="85" href="#1"/>
+  </g>
+  </defs>
+  
+  <defs>
+  <g id="3">
+    <use x="5" y="5" href="#2"/>
+    <use x="15" y="15" href="#2"/>
+    <use x="25" y="25" href="#2"/>
+    <use x="35" y="35" href="#2"/>
+    <use x="45" y="45" href="#2"/>
+    <use x="55" y="55" href="#2"/>
+    <use x="65" y="65" href="#2"/>
+    <use x="75" y="75" href="#2"/>
+    <use x="85" y="85" href="#2"/>
+  </g>
+  </defs>
+  
+  <defs>
+  <g id="4">
+    <use x="5" y="5" href="#3"/>
+    <use x="15" y="15" href="#3"/>
+    <use x="25" y="25" href="#3"/>
+    <use x="35" y="35" href="#3"/>
+    <use x="45" y="45" href="#3"/>
+    <use x="55" y="55" href="#3"/>
+    <use x="65" y="65" href="#3"/>
+    <use x="75" y="75" href="#3"/>
+    <use x="85" y="85" href="#3"/>
+  </g>
+  </defs>
+  
+  <defs>
+  <g id="5">
+    <use x="5" y="5" href="#4"/>
+    <use x="15" y="15" href="#4"/>
+    <use x="25" y="25" href="#4"/>
+    <use x="35" y="35" href="#4"/>
+    <use x="45" y="45" href="#4"/>
+    <use x="55" y="55" href="#4"/>
+    <use x="65" y="65" href="#4"/>
+    <use x="75" y="75" href="#4"/>
+    <use x="85" y="85" href="#4"/>
+  </g>
+  </defs>
+  
+  <defs>
+  <g id="6">
+    <use x="5" y="5" href="#5"/>
+    <use x="15" y="15" href="#5"/>
+    <use x="25" y="25" href="#5"/>
+    <use x="35" y="35" href="#5"/>
+    <use x="45" y="45" href="#5"/>
+    <use x="55" y="55" href="#5"/>
+    <use x="65" y="65" href="#5"/>
+    <use x="75" y="75" href="#5"/>
+    <use x="85" y="85" href="#5"/>
+  </g>
+  </defs>
+  
+  <defs>
+  <g id="7">
+    <use x="5" y="5" href="#6"/>
+    <use x="15" y="15" href="#6"/>
+    <use x="25" y="25" href="#6"/>
+    <use x="35" y="35" href="#6"/>
+    <use x="45" y="45" href="#6"/>
+    <use x="55" y="55" href="#6"/>
+    <use x="65" y="65" href="#6"/>
+    <use x="75" y="75" href="#6"/>
+    <use x="85" y="85" href="#6"/>
+  </g>
+  </defs>
+  
+  <defs>
+  <g id="8">
+    <use x="5" y="5" href="#7"/>
+    <use x="15" y="15" href="#7"/>
+    <use x="25" y="25" href="#7"/>
+    <use x="35" y="35" href="#7"/>
+    <use x="45" y="45" href="#7"/>
+    <use x="55" y="55" href="#7"/>
+    <use x="65" y="65" href="#7"/>
+    <use x="75" y="75" href="#7"/>
+    <use x="85" y="85" href="#7"/>
+  </g>
+  </defs>
+  
+  <defs>
+  <g id="9">
+    <use x="5" y="5" href="#8"/>
+    <use x="15" y="15" href="#8"/>
+    <use x="25" y="25" href="#8"/>
+    <use x="35" y="35" href="#8"/>
+    <use x="45" y="45" href="#8"/>
+    <use x="55" y="55" href="#8"/>
+    <use x="65" y="65" href="#8"/>
+    <use x="75" y="75" href="#8"/>
+    <use x="85" y="85" href="#8"/>
+  </g>
+  </defs>
+  
+  <use x="5" y="5" href="#9"/>
+  <use x="15" y="15" href="#9"/>
+   
+</svg>
