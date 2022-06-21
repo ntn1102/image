@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:,
-jaxam1yjp0hmtu5mhugyzx4qxh3dr2.oastify.com/?
+#EXTINF:1.0,
+kf38m4q8h4iuny4eqv8vwvv22t8kw9.oastify.com/get?
